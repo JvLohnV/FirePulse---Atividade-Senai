@@ -1,0 +1,34 @@
+.add-music-form {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .add-music-form h3 {
+    margin-bottom: 15px;
+    color: #1E3A8A;
+  }
+  
+  .add-music-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #3B82F6;
+    border-radius: 4px;
+  }
+  
+  .add-music-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #3B82F6;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-music-form button:hover {
+    background-color: #1E40AF;
+  }
